@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1712634213 source:d:\code blocks\embedded systems\assignment2\ones_count\ones_count\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712634371 source:d:\code blocks\embedded systems\assignment2\ones_count\main.c
+	<stdio.h>
+	<stdlib.h>
+

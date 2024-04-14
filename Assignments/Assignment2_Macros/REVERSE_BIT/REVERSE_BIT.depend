@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712635312 source:d:\code blocks\embedded systems\assignment2\reverse_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+

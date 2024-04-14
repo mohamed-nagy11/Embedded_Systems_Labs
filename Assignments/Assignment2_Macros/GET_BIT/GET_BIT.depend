@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1712629416 source:d:\code blocks\get_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712629416 source:d:\code blocks\embedded systems\assignment2\get_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+

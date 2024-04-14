@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712890920 source:d:\code blocks\embedded systems\assignment3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"english_words.h"
+
+1712875313 d:\code blocks\embedded systems\assignment3\english_words.h
+
